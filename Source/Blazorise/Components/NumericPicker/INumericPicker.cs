@@ -8,7 +8,7 @@ namespace Blazorise;
 /// Base interface for <see cref="NumericPicker{TValue}"/> to be updated from javascript.
 /// </summary>
 /// <remarks>
-/// This is needed to set the value from javascript because calling generic component directly is not supported by Blazor.
+/// This is needed to set the value from JavaScript because calling generic component directly is not supported by Blazor.
 /// </remarks>
 public interface INumericPicker
 {
